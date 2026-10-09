@@ -41,4 +41,4 @@
 - Demo data is local, deterministic, and in-memory; it is not a production service.
 - `npm run check` passed: typecheck, 28 tests across 5 files, and production build. Desktop and 375 CSS-pixel browser checks covered success, failure/retry, skeleton, replacement, empty state, keyboard activation, focus, and console output.
 - A separate screen-reader session and an emulated reduced-motion preference were not run; these limits are recorded in `README.md`.
-- The required commit remains pending because Git author and committer identity are not configured. No identity was invented.
+- The required feature commit `c0ba1f2` was created and pushed to `origin/main` after the user confirmed the GitHub identity to use. No existing history was rewritten and no force push was used.

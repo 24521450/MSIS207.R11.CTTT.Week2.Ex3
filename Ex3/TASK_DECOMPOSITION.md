@@ -36,6 +36,6 @@ Workflow: contract → state machine → async controller → UI → verificatio
 
 - [x] Document architecture, transitions, cancellation, scenarios, commands, observed results, limits, and any browser checks not completed.
 - [x] Review the final diff and stage only this task's files.
-- [ ] Create the required commit: `feat(ui): implement multi-state data component with skeleton feedback`.
+- [x] Create the required commit: `feat(ui): implement multi-state data component with skeleton feedback`.
 
-Commit note: Git has no configured `user.name` or `user.email` in this environment (`git var GIT_AUTHOR_IDENT` and `git var GIT_COMMITTER_IDENT` both report unknown identity). No identity has been invented; the commit remains pending that configuration.
+Commit note: Required commit `c0ba1f2` was created with the user-confirmed GitHub profile identity and pushed to `origin/main`. The identity configuration is local to this Exercise 3 checkout.
